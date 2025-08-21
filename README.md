@@ -33,5 +33,4 @@ I would showcase this report to demonstrate my ability to implement secure commu
 
 ---
 
-## Repository Contents
 
